@@ -101,24 +101,30 @@ endmodule
 
 ### RTL LOGIC  
 Encoder
+
 ![ex 8 1](https://github.com/Keerthanasampathkumar/Experiment-08-Encoders-and-decoders-/assets/119477890/e4be3e25-7143-4522-b2ef-389733bd1e74)
 
 Decoder
+
 ![ex 8 2](https://github.com/Keerthanasampathkumar/Experiment-08-Encoders-and-decoders-/assets/119477890/282e2af4-02bc-4d56-908e-30d84834aff1)
 
 
 ### TIMING DIGRAMS  
 Encoder
+
 ![ex 8 3](https://github.com/Keerthanasampathkumar/Experiment-08-Encoders-and-decoders-/assets/119477890/62905969-4cfc-4bdc-8d6c-3673876cf39a)
 
 Decoder
+
 ![ex 8 4](https://github.com/Keerthanasampathkumar/Experiment-08-Encoders-and-decoders-/assets/119477890/53b636d7-14ff-45a9-890e-c7eb8b3f6e41)
 
 ### TRUTH TABLE 
 Encoder
+
 ![ex 8 5](https://github.com/Keerthanasampathkumar/Experiment-08-Encoders-and-decoders-/assets/119477890/7d837e93-4e53-4b77-bfb3-8306359ca757)
 
 Decoder
+
 ![ex 8 6](https://github.com/Keerthanasampathkumar/Experiment-08-Encoders-and-decoders-/assets/119477890/a933555f-347e-4a3d-b089-c7e1410b5208)
 
 ### RESULTS 
